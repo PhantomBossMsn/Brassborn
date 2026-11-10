@@ -12,6 +12,7 @@ Recordings/
 
 # Visual Studio / VS Code / Rider cache & temp files
 .vs/
+.bezisidekick/
 .idea/
 .gradle/
 ExportedObj/
